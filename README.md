@@ -76,7 +76,7 @@ To launch the built status_led_node as root user on the DeepRacer device open up
 
 ## Launch Files
 
-The  status_led_pkg_launch.py is also included in this package that gives an example of how to launch the deepracer_navigation_node.
+The  status_led_pkg_launch.py is also included in this package that gives an example of how to launch the status_led_node.
 
     from launch import LaunchDescription
     from launch_ros.actions import Node

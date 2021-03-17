@@ -94,3 +94,7 @@ The  status_led_pkg_launch.py is also included in this package that gives an exa
 |led_solid|SetStatusLedSolidSrv|A service that is called to stop the current effect on the LED light passed as parameter and set a solid light effect with the color passed as parameter.|
 |led_blink|SetStatusLedBlinkSrv|A service that is called to stop the current effect on the LED light passed as parameter and start a blink light effect with the colors passed as parameter.|
 
+## Resources
+
+* AWS DeepRacer Opensource getting started: [https://github.com/awsdeepracer/aws-deepracer-launcher/blob/main/getting-started.md](https://github.com/awsdeepracer/aws-deepracer-launcher/blob/main/getting-started.md)
+

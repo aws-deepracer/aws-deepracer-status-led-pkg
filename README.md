@@ -2,7 +2,7 @@
 
 ## Overview
 
-The DeepRacer status LED ROS package creates the `status_led_node`, which is part of the core AWS DeepRacer application and launches from the `deepracer_launcher`. For more information about the application and the components, see the [aws-deepracer-launcher repository](https://github.com/aws-deepracer/aws-deepracer-launcher).
+The AWS DeepRacer status LED ROS package creates the `status_led_node`, which is part of the core AWS DeepRacer application and launches from the `deepracer_launcher`. For more information about the application and the components, see the [aws-deepracer-launcher repository](https://github.com/aws-deepracer/aws-deepracer-launcher).
 
 This node contains the logic for the blink and solid light effects for the status LED lights on the side of the AWS DeepRacer device. It provides services and functions that enable or disable the RGB GPIO ports for the LED lights and start and stop the particular effects on the LED lights.
 
